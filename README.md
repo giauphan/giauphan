@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" />
-
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><span>   </span><img align="" height="137px" src="https://streak-stats.demolab.com/?user=giauphan&theme=dark" />
 
 
