@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm giauphan
 
-### Fullstack Developer | Server & Cloud Enthusiast
+### Fullstack Developer | Devops & Cloud |  AI 
 <br/>
 <p dir="auto">
 <img src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" height="150" alt="stats" />
