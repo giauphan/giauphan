@@ -2,19 +2,20 @@
 
 # Hi there 👋, I'm giauphan
 
-### Fullstack Developer | Devops & Cloud |  AI 
-<br/>
-<p dir="auto">
-<img src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" height="150" alt="stats" />
-<img src="https://streak-stats.demolab.com/?user=giauphan&theme=dark&hide_border=true" height="150" alt="streak" />
-</p>
-<br/>
-
 🌱 **I'm currently working on:** Web Development & Server Management <br/>
 🧬 **Stack:** Fullstack, DevOps, Cloud <br/>
 ⚡ **Fun fact:** I love automating workflows and building tools.
 
 <br/>
+
+<div align="start">
+  <img src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" height="137" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=giauphan&theme=dark&hide_border=true" height="137" alt="streak" />
+</div>
+
+<br/>
+
+
 
 ### 🛠 Languages and Tools
 
