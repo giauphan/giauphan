@@ -10,6 +10,8 @@
 
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://streak-stats.demolab.com/?user=giauphan&theme=dracula&hide_border=true" />
 
+<img src="./assets/top-langs.svg" alt="Top Languages" />
+
 ### Featured
 
 🧠 **[CodeAtlas](https://github.com/giauphan/CodeAtlas)** — AI-powered code analysis VS Code extension with MCP server — 10 tools + persistent AI memory across conversations
