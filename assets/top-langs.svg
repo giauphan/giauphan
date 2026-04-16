@@ -1,0 +1,62 @@
+<svg width="350" height="205" viewBox="0 0 350 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #bd93f9; }
+    .lang-name { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #f8f8f2; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #6272a4; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="349" height="204" fill="#282a36" stroke="#44475a" stroke-opacity="0"/>
+  
+  <text x="25" y="30" class="header">Most Used Languages (All Repos)</text>
+  
+  <!-- Combined bar -->
+  <rect x="25" y="45" width="300" height="8" rx="4" fill="#44475a"/>
+  <!-- PHP 35% = 105px -->
+  <rect x="25" y="45" width="105" height="8" rx="4" fill="#777BB4"/>
+  <!-- Python 30% = 90px -->
+  <rect x="130" y="45" width="90" height="8" fill="#3776AB"/>
+  <!-- TypeScript 20% = 60px -->
+  <rect x="220" y="45" width="60" height="8" fill="#3178C6"/>
+  <!-- Java 8% = 24px -->
+  <rect x="280" y="45" width="24" height="8" fill="#ED8B00"/>
+  <!-- JavaScript 5% = 15px -->
+  <rect x="304" y="45" width="15" height="8" fill="#F7DF1E"/>
+  <!-- Ruby 2% = 6px -->
+  <rect x="319" y="45" width="6" height="8" rx="0 4 4 0" fill="#CC342D"/>
+
+  <!-- Legend Row 1 -->
+  <g transform="translate(25, 75)">
+    <circle cx="5" cy="5" r="5" fill="#777BB4"/>
+    <text x="15" y="9" class="lang-name">PHP</text>
+    <text x="45" y="9" class="lang-pct">35.00%</text>
+  </g>
+  <g transform="translate(125, 75)">
+    <circle cx="5" cy="5" r="5" fill="#3776AB"/>
+    <text x="15" y="9" class="lang-name">Python</text>
+    <text x="60" y="9" class="lang-pct">30.00%</text>
+  </g>
+  <g transform="translate(235, 75)">
+    <circle cx="5" cy="5" r="5" fill="#3178C6"/>
+    <text x="15" y="9" class="lang-name">TypeScript</text>
+    <text x="80" y="9" class="lang-pct">20.00%</text>
+  </g>
+
+  <!-- Legend Row 2 -->
+  <g transform="translate(25, 100)">
+    <circle cx="5" cy="5" r="5" fill="#ED8B00"/>
+    <text x="15" y="9" class="lang-name">Java</text>
+    <text x="45" y="9" class="lang-pct">8.00%</text>
+  </g>
+  <g transform="translate(125, 100)">
+    <circle cx="5" cy="5" r="5" fill="#F7DF1E"/>
+    <text x="15" y="9" class="lang-name">JavaScript</text>
+    <text x="75" y="9" class="lang-pct">5.00%</text>
+  </g>
+  <g transform="translate(235, 100)">
+    <circle cx="5" cy="5" r="5" fill="#CC342D"/>
+    <text x="15" y="9" class="lang-name">Ruby</text>
+    <text x="50" y="9" class="lang-pct">2.00%</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="25" y="135" font-size="10" fill="#6272a4" font-family="'Segoe UI', Ubuntu, sans-serif">Includes 72 repositories (public + private)</text>
+</svg>
