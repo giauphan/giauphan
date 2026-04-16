@@ -8,7 +8,7 @@
 
 ### Statistics
 
-<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=giauphan&hide_title=true&hide_border=true&layout=compact&hide=html,css,scss&theme=dracula" />
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=giauphan&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://streak-stats.demolab.com/?user=giauphan&theme=dracula&hide_border=true" />
 
 ### Featured
 
