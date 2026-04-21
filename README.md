@@ -12,20 +12,6 @@
 
 <img src="./assets/top-langs.svg" alt="Top Languages" />
 
-### Featured
-
-🧠 **[CodeAtlas](https://github.com/giauphan/CodeAtlas)** — AI-powered code analysis VS Code extension with MCP server — 10 tools + persistent AI memory across conversations
-
-🧠 **[CodeAtlas MCP](https://github.com/giauphan/codeatlas-mcp)** — MCP server giving AI assistants (Gemini, Claude, Cursor, Windsurf, Copilot) deep codebase understanding
-```
-npx @giauphan/codeatlas-mcp
-```
-
-🔗 **[MCP Frontend-Backend](https://github.com/giauphan/mcp-frontend-backend)** — Multimodal MCP Server bridging local Frontend & Backend repos to AI tools, bypassing workspace sandbox restrictions
-
-📦 **[Laravel QR Code](https://github.com/giauphan/laravel-qr-code)** — QR Code Generator package for Laravel
-
-🕷️ **[CrawlBlog](https://github.com/giauphan/CrawlBlog)** — Web scraping tool for blogs and websites using Playwright & Goutte
 
 ### 🔆 Areas of interest
 - AI pipeline & automation (Gemini API, MCP, Chrome DevTools Protocol)
