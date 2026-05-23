@@ -16,37 +16,37 @@
   </mask>
   
   <g mask="url(#rect-mask)">
-    <rect x="25" y="45" width="112.47" height="8" fill="#4F5D95"/>
-    <rect x="137.47" y="45" width="79.29" height="8" fill="#3572A5"/>
-    <rect x="216.76" y="45" width="39.96" height="8" fill="#663399"/>
-    <rect x="256.71999999999997" y="45" width="36.93" height="8" fill="#f1e05a"/>
-    <rect x="293.65" y="45" width="18.54" height="8" fill="#f7523f"/>
-    <rect x="312.19" y="45" width="12.84" height="8" fill="#3178c6"/>
+    <rect x="25" y="45" width="125.28" height="8" fill="#4F5D95"/>
+    <rect x="150.28" y="45" width="67.65" height="8" fill="#3572A5"/>
+    <rect x="217.93" y="45" width="48.39" height="8" fill="#f1e05a"/>
+    <rect x="266.32" y="45" width="46.05" height="8" fill="#3178c6"/>
+    <rect x="312.37" y="45" width="6.57" height="8" fill="#41b883"/>
+    <rect x="318.94" y="45" width="6.06" height="8" fill="#b07219"/>
   </g>
 
   <!-- Legend -->
   <g transform="translate(25, 70)">
     <circle cx="5" cy="5" r="5" fill="#4F5D95"/>
-    <text x="15" y="9" class="lang-name">PHP <tspan class="lang-pct">37.49%</tspan></text>
+    <text x="15" y="9" class="lang-name">PHP <tspan class="lang-pct">41.76%</tspan></text>
   </g>
   <g transform="translate(125, 70)">
     <circle cx="5" cy="5" r="5" fill="#3572A5"/>
-    <text x="15" y="9" class="lang-name">Python <tspan class="lang-pct">26.43%</tspan></text>
+    <text x="15" y="9" class="lang-name">Python <tspan class="lang-pct">22.55%</tspan></text>
   </g>
   <g transform="translate(235, 70)">
-    <circle cx="5" cy="5" r="5" fill="#663399"/>
-    <text x="15" y="9" class="lang-name">CSS <tspan class="lang-pct">13.32%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
+    <text x="15" y="9" class="lang-name">JavaScript <tspan class="lang-pct">16.13%</tspan></text>
   </g>
   <g transform="translate(25, 95)">
-    <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
-    <text x="15" y="9" class="lang-name">JavaScript <tspan class="lang-pct">12.31%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#3178c6"/>
+    <text x="15" y="9" class="lang-name">TypeScript <tspan class="lang-pct">15.35%</tspan></text>
   </g>
   <g transform="translate(125, 95)">
-    <circle cx="5" cy="5" r="5" fill="#f7523f"/>
-    <text x="15" y="9" class="lang-name">Blade <tspan class="lang-pct">6.18%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#41b883"/>
+    <text x="15" y="9" class="lang-name">Vue <tspan class="lang-pct">2.19%</tspan></text>
   </g>
   <g transform="translate(235, 95)">
-    <circle cx="5" cy="5" r="5" fill="#3178c6"/>
-    <text x="15" y="9" class="lang-name">TypeScript <tspan class="lang-pct">4.28%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#b07219"/>
+    <text x="15" y="9" class="lang-name">Java <tspan class="lang-pct">2.02%</tspan></text>
   </g>
 </svg>
